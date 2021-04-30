@@ -1,6 +1,21 @@
 nav {
-    background-color: red;
-    display: block;
-    width: 100%;
+    background-color:beige;
+    width: 80%;
+    margin: auto;
+    height: 60px;
+}
+
+nav li {
+    border: solid 1px red;
+    float: right;
+    list-style: none;
+    margin: 20px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav h4 {
     float: left;
 }
